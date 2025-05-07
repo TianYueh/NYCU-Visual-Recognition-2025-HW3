@@ -22,7 +22,7 @@ Fourth, run the training code. You can also modify the parameters in the code.
 ```
 python training.py
 ```
-Fifth, run the inference code, you can also modify the threshold.  
+Fifth, run the inference code, you can also modify the threshold or some other parameters.  
 ```
 python inference.py
 ```
